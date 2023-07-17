@@ -1,5 +1,3 @@
-Sure, I can do that. Here is the README.md file for your code:
-
 ## GifExpertApp
 
 GifExpertApp is a web application that allows users to search for and view GIFs. The application is built using React and uses the Giphy API to fetch GIFs.
@@ -17,7 +15,6 @@ The application will be available at http://localhost:3000.
 1. Enter a search term in the search bar.
 2. Click the search button.
 3. The results will be displayed in a grid.
-4. Click on a GIF to view it full-screen.
 
 ### To learn more about the application
 
